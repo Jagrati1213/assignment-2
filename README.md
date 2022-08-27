@@ -10,4 +10,4 @@ my role on that was design some sections.
 - Bootstrap
 - Font Awesome
 ##
-you can check out with [link](https://jagrati1213.github.io/assinment-2/)
+you can check out with [link](https://jagrati1213.github.io/assignment-2/)
