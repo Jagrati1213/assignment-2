@@ -1,5 +1,5 @@
 # Assignment-2
-This project was Teammate project.\
+It was an assignment given by the Ineuron.\
 Devloyed [link](https://jagrati1213.github.io/assignment-2/)
 ### used language ###
 - Html
